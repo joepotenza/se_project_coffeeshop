@@ -8,9 +8,10 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Flexbox
 - Positioning
 - Flat BEM file structure
-- A custom form
+- A custom form with background image for checkbox
 - CSS animation and transform
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Form processing for reservations
+- Animate the circles in the backgrounds
