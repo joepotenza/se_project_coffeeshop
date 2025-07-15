@@ -40,6 +40,7 @@
   line-height: 52px;
   font-style: normal;
   font-weight: 500;
+  font-family: Inter, Arial, sans-serif;
 }
 
 .about__content {
@@ -47,6 +48,7 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin-top: 19px;
 }
 
 .about__paragraph {

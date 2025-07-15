@@ -3,6 +3,7 @@
   flex-direction: column;
   padding: 0;
   border: 0;
+  width: 385px;
 }
 
 .form__label {
@@ -52,11 +53,11 @@
   display: none;
 }
 
-.form__checkbox + span {
+.form__checkbox + .form__custom-checkbox {
   display: none;
 }
 
-.form__checkbox:checked + span {
+.form__checkbox:checked + .form__custom-checkbox {
   background-image: url(../images/check.svg);
   background-color: #1878dc;
   background-repeat: no-repeat;
