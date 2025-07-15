@@ -2,7 +2,6 @@
   padding: 0;
   margin: 0;
   width: 540px;
-  list-style-type: none;
 }
 
 .card__title {
@@ -11,6 +10,12 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
+}
+
+.card__list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
 
 .card__list-item {
